@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Aldair Silva de Araujo
 
-<!--
-**AldairAraujo95/AldairAraujo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sua Foto](URL_DA_SUA_FOTO)
 
-Here are some ideas to get you started:
+Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Apaixonado por programação Java, desenvolvimento web, e tecnologias Open Source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+
+Tenho experiência com desenvolvimento em Java, Spring Boot, e também em linguagens como Python e JavaScript. Gosto de construir soluções práticas e eficientes para desafios reais.
+
+Sou entusiasta de hardware e sempre aberto a colaborar e aprender mais.
+
+## Tecnologias que uso:
+
+- Java
+- Spring Boot
+- Python
+- JavaScript
+- Git / GitHub
+
+## Contato
+
+Sinta-se à vontade para entrar em contato!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aldairaraujo95)
