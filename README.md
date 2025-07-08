@@ -23,3 +23,4 @@ Sou entusiasta de hardware e sempre aberto a colaborar e aprender mais.
 Sinta-se à vontade para entrar em contato!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aldairaraujo95)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:aldairaraujob13@gmail.com)
