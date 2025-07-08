@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Aldair Silva de Araujo
+# Olá! 👋 Eu sou Aldair Araujo
 
 
 
