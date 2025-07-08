@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Aldair Silva de Araujo
 
-![Sua Foto](URL_DA_SUA_FOTO)
+
 
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Apaixonado por programação Java, desenvolvimento web, e tecnologias Open Source.
 
